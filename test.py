@@ -1,3 +1,3 @@
 ball = 5
-ball = ball + 6
+ball = ball - 1
 print(ball)
